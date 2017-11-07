@@ -1,4 +1,4 @@
-FROM lgatica/node-krb5:4.8.5@sha256:cef57ec8f744daaae41f38a4313acfde49677f01f189d4c0cb0448bdf848f939
+FROM lgatica/node-krb5:4.8.5@sha256:c15efd40c020d16715148618c9c5af9df50fbb2f047982d1bafb7daf57fe63fc
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
